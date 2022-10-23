@@ -17,6 +17,10 @@ function exercise09() {
         ["Thursday"],
         ["Friday"],
     ];
+
+    const flatdays = days.flat();
+
+    return flatdays;
 }
 
 // Don’t change the code bellow this line
